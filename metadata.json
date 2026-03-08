@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Forgetfulness Reminder System",
+  "description": "An advanced AI-powered system designed to prevent forgetfulness by providing timely reminders and cognitive support.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
